@@ -80,4 +80,4 @@ $ npm start
 
 ## Contact
 
--   GitHub [AmanDeep9925](https://{github.com/AmanDeep9925)
+-   GitHub [AmanDeep9925](https://github.com/AmanDeep9925)
